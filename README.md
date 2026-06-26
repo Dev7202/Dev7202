@@ -1,22 +1,21 @@
-# Hi, I'm Dev
+# Hi, I'm Dev 
 
-###  Software Developer & Student 
+### Aspiring Software Engineer
 
-- Pursuing **B.Tech. in Information and Communication Technology** at **Dhirubhai Ambani University (DAU)**.
-- **Core Interests:** Data Structures & Algorithms (DSA), Web Development, DBMS, Operating Systems, Computer Networks, and Cryptography.
-- Reach me at: **devmakwana2951@gmail.com**
+-  I am currently pursuing a **B.Tech in Information and Communication Technology** at **Dhirubhai Ambani University (DAU), Gandhinagar**.
+-  I am interested in **Data Structures & Algorithms (DSA)** and **Full-Stack Web Development**.
+-  Reach me at: **devmakwana2951@gmail.com**
 
 ---
 
-### Tech Stack & Tools
+### Languages:
 
-- **Languages:**
-C, C++, Javascript
-
-- **Web Development & Databases:**
-  React, ExpressJS , NodeJS ,MongoDB .
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 
 ---
 
 ### Connect with me:
-- Linkdin: www.linkedin.com/in/dev-makwana-1a8a91282
+
+<a href="https://www.linkedin.com/in/dev7202/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
