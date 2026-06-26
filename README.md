@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dev
 
-<!--
-**Dev7202/Dev7202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Software Developer & Student 
 
-Here are some ideas to get you started:
+- Pursuing **B.Tech. in Information and Communication Technology** at **Dhirubhai Ambani University (DAU)**.
+- **Core Interests:** Data Structures & Algorithms (DSA), Web Development, DBMS, Operating Systems, Computer Networks, and Cryptography.
+- Reach me at: **devmakwana2951@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+
+- **Languages:**
+C, C++, Javascript
+
+- **Web Development & Databases:**
+  React, ExpressJS , NodeJS ,MongoDB .
+
+---
+
+### Connect with me:
+- Linkdin: www.linkedin.com/in/dev-makwana-1a8a91282
